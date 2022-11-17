@@ -5,7 +5,8 @@ Initial Function()
   //Sample Code
   Adding one line from Master
 Adding second line from feature1
-adding third line from feature2
+deleteing line here and adding new line from feature1
+this is new line added again  
 
 }
 
