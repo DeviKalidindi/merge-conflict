@@ -5,8 +5,8 @@ Initial Function()
   //Sample Code
   Adding one line from Master
 Adding second line from feature1
-adding third line from feature2
-
+adding third line from feature2. updating this line from master
+Adding new line from master
 }
 
 Initial Security()
